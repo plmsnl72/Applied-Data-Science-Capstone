@@ -1,2 +1,2 @@
 # Applied-Data-Science-Capstone
-# Files are in master branch
+# Files are in "master" branch
